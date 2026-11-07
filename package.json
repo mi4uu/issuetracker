@@ -39,7 +39,7 @@
     }
   },
   "author": "mjl",
-  "license": "ISC",
+  "license": "AGPL-3.0-or-later",
   "dependencies": {
     "@types/bcrypt": "^2.0.0",
     "@types/chai": "^4.1.3",
